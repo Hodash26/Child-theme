@@ -10,10 +10,8 @@ function theme_enqueue_styles() {
 
 
 function my_custom_login() {
-
- 
-
-echo '<link rel="stylesheet" type="text/css" href="' . get_bloginfo('stylesheet_directory') . '/login/login-style-perso.css" />' }
+echo '<link rel="stylesheet" type="text/css" href="' . get_bloginfo('stylesheet_directory') . '/login/login-style-perso.css" />';
+}
 
  
 
