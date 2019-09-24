@@ -1,0 +1,14 @@
+body.login {
+    background-image: url('background-login.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover;  
+} 
+
+.login h1 a {
+    background-image: url('logo-devoilezvostalents.png'); 
+    background-size: 120px; 
+    height: 120px; 
+    width: 120px; 
+}
