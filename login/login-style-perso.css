@@ -33,25 +33,25 @@ body.login {
 .login .button-primary {
     width: 120px;
     float:right;
-    background-color:#fb6cf3 !important;
+    background-color: #ff7707 !important;
     color: #ffffff;
     font-weight:bold;
     -webkit-border-radius: 4px;
-    border: 1px solid #fb33ef;
+    border: 1px solid #ff9607;
     box-shadow: none;
     text-shadow: none;
 }
 
 .login .button-primary:hover {
-    background-color:#fb33ef !important;
+    background-color:#ff9607 !important;
     color: #fff;
     -webkit-border-radius: 4px;
-    border: 1px solid #fb33ef;
+    border: 1px solid #ff9607;
 }
 
 .login .button-primary:active {
-    background-color:#fb33ef !important;
+    background-color:#ff9607 !important;
     color: #fff;
     -webkit-border-radius: 4px;
-    border: 1px solid #fb33ef;
+    border: 1px solid #ff9607;
 }
