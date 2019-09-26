@@ -43,3 +43,28 @@
 	font-size: 20px !important;
 	color: #0d245c;
 }
+
+@media screen and (max-width:600px)
+{ 
+#site-header-inner{
+	padding: 0 !important;
+	}
+	#site-logo-inner{
+		margin-top:80px;
+	}
+}
+
+@media screen and (min-width:700px){
+#site-header-inner {
+	padding-left: 350px !important;
+	}
+		#site-logo-inner{
+		margin-top:150px;
+	}
+}
+
+@media screen and (min-width:1000px){
+			#site-logo-inner{
+		margin-top:1px;
+	}
+}
